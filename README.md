@@ -1,13 +1,7 @@
 # Links for the education purpose
 
-## [Java](JAVA.md)
+## [Java](Java.md)
 
-[link to Oracle](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+## [JavaScript](JavaScript.md)
 
-
-## [JavaScript](https://www.javascript.com/)
-
-[JavaScript](https://www.javascript.com/)
-
-
-## [Python](https://www.python.org/)
+## [Python](Python.md)
