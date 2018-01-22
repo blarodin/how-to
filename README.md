@@ -1,7 +1,7 @@
 # Links for the education purpose
 
-## [Java](Java.md)
+## [Java](JAVA.md)
 
-## [JavaScript](JavaScript.md)
+## [JavaScript](JAVASCRIPT.md)
 
-## [Python](Python.md)
+## [Python](PYTHON.md)
